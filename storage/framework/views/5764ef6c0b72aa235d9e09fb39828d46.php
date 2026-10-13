@@ -1,0 +1,1 @@
+hi<?php /**PATH C:\xampp\htdocs\ERP-System\resources\views\welcome.blade.php ENDPATH**/ ?>
