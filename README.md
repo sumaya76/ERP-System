@@ -225,3 +225,10 @@ The application stores identity and authorization in `users` and `roles`; workfo
 Procurement and delivery use `suppliers`, `materials`, `purchase_requests`, `purchase_request_items`, `supplier_quotations`, `supplier_quotation_items`, `purchase_orders`, `purchase_order_items`, and `inventory_transactions`. Project delivery and collaboration use `project_milestones`, `project_progress_updates`, and `project_documents`. Approval and reminders are persisted in `approval_requests`, `approval_actions`, and `erp_notifications`.
 
 Key relationships include workers assigned to multiple projects, attendance linked to workers and projects, payroll allocated to projects, expenses and delivery costs linked to projects, purchase orders linked to requests and suppliers, and approvals linked to their source records.
+
+## Contact
+
+**Sumaya Akter**  
+Full-Stack Software Engineer  
+Phone: 01690253986  
+Email: [sumaya0akter45@gmail.com](mailto:sumaya0akter45@gmail.com)

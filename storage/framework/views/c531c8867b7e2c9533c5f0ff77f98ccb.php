@@ -1,1 +1,0 @@
-notification-<?php echo e($notification->id); ?><?php /**PATH C:\xampp\htdocs\ERP-System\storage\framework/views/4bf712643797d3a84f35bad51ee6ccd2.blade.php ENDPATH**/ ?>
